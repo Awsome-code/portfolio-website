@@ -8,32 +8,32 @@ const skills = [
     {
         name : "JavaScript",
         icon : <DiJavascript />,
-        skillLevel : 85,
+        skillLevel : 65,
     },
     {
         name : "React Js",
         icon : <DiReact />,
-        skillLevel : 95,
+        skillLevel : 75,
     },
     {
         name : "Next Js",
         icon : <RiNextjsFill />,
-        skillLevel : 90,
+        skillLevel : 70,
     },
     {
         name : "Node Js",
         icon : <FaNodeJs />,
-        skillLevel : 80,
+        skillLevel : 60,
     },
     {
         name : "TypeScript",
         icon : <SiTypescript />,
-        skillLevel : 75,
+        skillLevel : 55,
     },
     {
         name : "TailwindCss",
         icon : <RiTailwindCssFill />,
-        skillLevel : 90,
+        skillLevel : 70,
     },
 ]
 
