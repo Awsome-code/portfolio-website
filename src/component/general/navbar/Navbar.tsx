@@ -33,9 +33,9 @@ export default function Navbar() {
     }
   }, []  )
   return (
-    <nav className={`h-18 fixed z-50 w-full transition-all duration-300 
+    <nav className={`h-20 fixed z-50 w-full transition-all duration-300 
     ${navBackground ? "bg-slate-900 shadow-md" : ""}`}>
-      <div className="flex items-center h-full justify-between w-[90%] mx-auto">
+      <div className="flex items-center h-full justify-between max-w-7xl mx-auto px-4">
         {/* logo                   */}
         <Logo />
 

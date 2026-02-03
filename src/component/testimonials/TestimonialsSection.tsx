@@ -4,45 +4,45 @@ import Image from "next/image";
 
 const testimonials = [
   {
-    name: "Alex Johnson",
-    role: "Product Manager, TechCrop",
+    name: "Sanu Pratap Mehta",
+    role: "Product Manager, Rynex World Pvt. Ltd.",
     content:
       "Exceptional attention to detail and commitment to quality, Highly recommended",
     rating: 4,
-    image: "/images/image1.jpg",
+    image: "/images/Sanu.jpg",
   },
   {
-    name: "Sarah Williams",
-    role: "CTO, StartupXYZ",
+    name: "Vandana Jha",
+    role: "Naturopath, Raghavan Naturopathy",
     content:
       "Project delivered on time with excellent quality and outstanding communications",
     rating: 5,
-    image: "/images/image1.jpg",
+    image: "/images/Vandana.png",
   },
   {
-    name: "Alex Johnson",
-    role: "Product Manager, TechCrop",
-    content:
-      "Exceptional attention to detail and commitment to quality, Highly recommended",
-    rating: 2,
-    image: "/images/image1.jpg",
-  },
-  {
-    name: "Alex Johnson",
-    role: "Product Manager, TechCrop",
-    content:
-      "Exceptional attention to detail and commitment to quality, Highly recommended",
-    rating: 3,
-    image: "/images/image1.jpg",
-  },
-  {
-    name: "Alex Johnson",
-    role: "Product Manager, TechCrop",
+    name: "Priti Gupta",
+    role: "Naturopath, Raghavan Naturopathy",
     content:
       "Exceptional attention to detail and commitment to quality, Highly recommended",
     rating: 4,
-    image: "/images/image1.jpg",
+    image: "/images/Priti.png",
   },
+  // {
+  //   name: "Alex Johnson",
+  //   role: "Product Manager, TechCrop",
+  //   content:
+  //     "Exceptional attention to detail and commitment to quality, Highly recommended",
+  //   rating: 3,
+  //   image: "/images/image1.jpg",
+  // },
+  // {
+  //   name: "Alex Johnson",
+  //   role: "Product Manager, TechCrop",
+  //   content:
+  //     "Exceptional attention to detail and commitment to quality, Highly recommended",
+  //   rating: 4,
+  //   image: "/images/image1.jpg",
+  // },
 ];
 
 export default function TestimonialsSection() {
